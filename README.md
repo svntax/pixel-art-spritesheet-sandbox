@@ -2,6 +2,8 @@
 
 Simple web game tool for testing spritesheet animations. Uses Phaser. Made mostly with the help of an LLM (GLM 4.7), so expect messy code.
 
+Use it here - https://svntax.github.io/pixel-art-spritesheet-sandbox/
+
 ## How to Use
 
 Upload a 512x512 spritesheet generated from TODO, and the tool will downscale it to 128x128, try to remove the background, and then add the spritesheet to a list.
